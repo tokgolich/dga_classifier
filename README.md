@@ -1,8 +1,6 @@
 # dga_classifier
 Sample DGA classifier
 
-Sample code for wooyun article <http://drops.wooyun.org/tips/6220>
-
 ## run steps
     python tld_appender.py
     python gram_freq_rank.py
